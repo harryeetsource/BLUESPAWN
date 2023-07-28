@@ -38,4 +38,3 @@ rule Windows_Trojan_Dridex_c6f01353 {
     condition:
         all of them
 }
-
